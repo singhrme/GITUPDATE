@@ -14,7 +14,7 @@ cin>>a>>b;
 
 int sum = a +b;
 
-cout<<sum<<endl;
+cout<<sum<<" This is the sum of both numbers."<<endl;
 
 
 
