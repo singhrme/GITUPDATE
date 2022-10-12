@@ -10,7 +10,7 @@ cin>>x>>y;
 
 int multiple = x*y;
 
-cout<<multiple<<endl;
+cout<<multiple<<" multiplication of two numbers."<<endl;
 
 
 return 0;
