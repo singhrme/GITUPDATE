@@ -8,10 +8,10 @@ int y;
 
 cin>>x>>y;
 
-int difference = x - y;
+int multiple = x*y;
 
-cout<<difference<<endl;
+cout<<multiple<<endl;
+
 
 return 0;
-
 }
